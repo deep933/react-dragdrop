@@ -1,1 +1,2 @@
-export * from './src/lib/dragdrop'
+import dragdrop from './src/lib/dragdrop'
+export { dragdrop };
