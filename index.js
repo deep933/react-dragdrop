@@ -1,1 +1,2 @@
-export { default as DragDrop } from "./src/lib/dragdrop";
+import DragDrop from "./src/lib/dragdrop";
+export default DragDrop;
