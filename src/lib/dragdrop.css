@@ -1,0 +1,12 @@
+.drag-drop{
+    background: transparent;
+        height: 100%;
+
+    height: 200px;
+}
+.drag-drop .error{
+    background: red;
+    padding: 5px;
+    width: 100%;
+    color:#FFF;
+}
