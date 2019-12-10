@@ -1,2 +1,2 @@
-import DragDrop from "./src/lib/dragdrop";
+import DragDrop from "./src/dragdrop/dragdrop";
 export default DragDrop;
